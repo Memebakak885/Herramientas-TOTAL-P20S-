@@ -24,7 +24,7 @@
       <a href="#detalles">Detalles</a>
       <a href="#entregas">Entregas</a>
       <a href="#nosotros">Nosotros</a>
-      <a class="whatsapp" href="https://wa.me/59100000000" target="_blank">Contactar por WhatsApp</a>
+      <a class="whatsapp" href="https://wa.me/59174900833" target="_blank">Contactar por WhatsApp</a>
     </nav>
   </header>
   
@@ -48,12 +48,41 @@
   
   <section id="detalles" class="seccion">
     <h2>Detalles</h2>
-    <p>Ofrecemos herramientas de alta calidad para profesionales y aficionados.</p>
+    <p>🔧 HERRAMIENTAS PROFESIONALES TOTAL P20S – BRUSHLESS 🔧
+¡Potencia, calidad y rendimiento para trabajo pesado!
+
+Vendo distintos combos profesionales TOTAL, todos con motor BL MOTOR, baterías de 20V y accesorios incluidos. Ideales para mecánicos, constructores, electricistas, técnicos y uso en casa.
+
+🔥 Opciones disponibles:
+✔ Taladros percutores
+✔ Llaves de impacto (alto torque)
+✔ Atornilladores
+✔ Rotomartillos
+✔ Linternas LED potentes
+✔ Sets de brocas y puntas
+✔ Baterías 20V de 2.0Ah y 5.0Ah
+✔ Cargadores rápidos
+✔ Maletines y bolsas TOTAL
+
+💎 Productos 100% nuevos y originales
+Potencia desde 66 N.m hasta 1350 N.m, dependiendo del modelo.
+
+🛠️ Equipos perfectos para:
+• Construcción
+• Mecánica
+• Talleres
+• Hogar
+• Trabajos diarios o profesionales
+
+📍 ENTREGA INMEDIATA EN LA PAZ
+✨ Precios accesibles y combos completos.
+
+📲 Escríbeme para enviarte fotos, modelos disponibles y precios actualizados. </p>
   </section>
 
   <section id="entregas" class="seccion">
     <h2>Entregas</h2>
-    <p>Realizamos entregas a toda la ciudad con tiempos de 24 a 48 horas.</p>
+    <p>Realizamos entregas puntos centricos de La Paz y envíos a todo el interior de Bolivia.</p>
   </section>
 
   <section id="nosotros" class="seccion">
